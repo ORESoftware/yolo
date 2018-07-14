@@ -3,12 +3,12 @@
   "bin": {
     "yolo3": "index.js"
   },
-  "version": "4.1.0-rc.0",
+  "version": "4.1.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "cholo1": "4.1.0-rc.0",
-    "rolo2": "4.1.0-rc.0",
+    "cholo1": "4.1.0",
+    "rolo2": "4.1.0",
     "lodash": "latest"
   }
 }

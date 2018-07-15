@@ -3,7 +3,7 @@
   "bin": {
     "yolo3": "index.js"
   },
-  "version": "5.0.0-rc.0",
+  "version": "5.1.0-0",
   "description": "",
   "main": "index.js",
   "dependencies": {

@@ -1,8 +1,10 @@
 {
-  "vcsType": "git",
-  "vcsInfo": {
-    "remote": "origin",
-    "master": "master",
-    "integration": "master"
+  "vcs": {
+    "type": "git",
+    "value": {
+      "remote": "origin",
+      "master": "master",
+      "integration": "master"
+    }
   }
 }
